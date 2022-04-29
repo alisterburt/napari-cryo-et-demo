@@ -9,6 +9,7 @@ Install into a fresh virtual environment, I personally use [miniconda](https://d
 
 ```commandline
 git clone https://github.com/alisterburt/napari-cryo-et-demo.git
+cd napari-cryo-et-demo
 pip install -r requirements.txt
 ```
 
