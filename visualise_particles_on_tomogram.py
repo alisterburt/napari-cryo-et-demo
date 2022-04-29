@@ -33,7 +33,7 @@ viewer = napari.Viewer(ndisplay=3)
 # set up napari vectors layer data
 # (n, 2, 3) array
 # dim 0: batch dimension
-# dim 1: first entry is start point of vector
+# dim 1: first row is start point of vector, second is direction vector
 # dim 2: components of direction vector e.g. (x, y, z)
 vectors = np.zeros((rotated_z_vectors.shape[0], 2, 3))
 
