@@ -1,0 +1,6 @@
+napari[pyqt5]
+numpy
+scipy
+mrcfile
+starfile
+zenodo_get
