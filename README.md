@@ -2,6 +2,8 @@
 
 This repo contains a quick demonstration of how to use napari to visualise cryo-electron tomography data. 
 
+<img src="demo-image.png" alt="napari window" width="800">
+
 This demo was given after a presentation at the MRC Laboratory of Molecular Biology tomography meeting on 29/04/22. Slides can be downloaded from [zenodo](https://zenodo.org/record/6505039).
 
 # Installation
